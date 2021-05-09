@@ -1,7 +1,8 @@
 # FoxNewsScraperParser
 ## Background
 This repository is designed for scraping and parsing articles and images
-from ***https://www.foxnews.com/*** with the angular API
+from ***https://www.foxnews.com/*** with the angular API. This repository
+is a part of data science project and the data will be used for text analysis.
 ## Functions
 ### foxnewsScraperParser.py
 This file includes some global utility functions, and two classes  
