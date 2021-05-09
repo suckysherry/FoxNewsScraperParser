@@ -1,0 +1,17 @@
+Background:
+1. There are lots of time series in trading. Then the knowledge of dealing with time series is important. Here I used the datatime module to deal with time series;
+2. This file includes scraping data, parsing data and saving data. Meanwhile, it deals with different type of files - HTML, json, csv, text.
+3. A part of data science project, the other part is the modelling which is confidential.
+
+
+
+Function: 
+1. foxnewsScraperParser.py: Scraper + parser
+	1.1 Scraper helps to scrape the meta data of articles of one day - publish time, title, 				description, url and images url, and then save  the meta data in a summary file;
+	1.2 There is an independent summary file for each day, so that if there is some exception, the previous data will not be missing;
+	1.3 Parser parses the html files which are read from the urls of the summary file and save the article and images locally;
+
+2. main.py: 
+	1.1 An example of using the foxinessScraperParser;
+	1.2 Scrape and parse all articles on 20200401 with the key word 'the'；
+	1.3 Save logs at output.log

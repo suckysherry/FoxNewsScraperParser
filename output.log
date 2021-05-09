@@ -1,0 +1,196 @@
+2021/05/09 16:24:06 - __main__ - INFO - 13 - main - Start scraping meta data
+2021/05/09 16:24:06 - __main__ - INFO - 153 - foxnewsScraperParser - Scrape and save meta data of 2020-04-01 00:00:00
+2021/05/09 16:24:06 - __main__ - INFO - 156 - foxnewsScraperParser - Query key word: the
+2021/05/09 16:26:47 - __main__ - INFO - 16 - main - Start parsing and downloading articles and images
+2021/05/09 16:26:47 - __main__ - INFO - 190 - foxnewsScraperParser - Parse and download articles and images of 2020-04-01 00:00:00
+2021/05/09 16:27:06 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:27:16 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:27:23 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:28:02 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:28:18 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:31:44 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:31:55 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:32:02 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:32:03 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:32:04 - __main__ - ERROR - 220 - foxnewsScraperParser - Failed to download the image of the url: 
+Traceback (most recent call last):
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 218, in parse_download_articles
+    download_img(image_urls[i], date, index, i)
+  File "/Users/lda/Workspace/Siqi/Axpo/foxnewsScraperParser.py", line 83, in download_img
+    response = requests.get(url)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 316, in prepare
+    self.prepare_url(url, params)
+  File "/Users/lda/Workspace/STUDY/venv/lib/python3.8/site-packages/requests/models.py", line 390, in prepare_url
+    raise MissingSchema(error)
+requests.exceptions.MissingSchema: Invalid URL '': No schema supplied. Perhaps you meant http://?
+2021/05/09 16:33:14 - __main__ - INFO - 18 - main - Finish

@@ -1,0 +1,48 @@
+Title:
+As usage booms amid coronavirus crisis, Zoom’s R&D presence in China under scrutiny
+********************
+Body:
+Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.
+Get all the latest news on coronavirus and more delivered daily to your inbox.  Sign up here.
+Zoom Video Communications, which is enjoying a boom in use as people flock to its service amid the coronavirus outbreak, is attracting attention over its R&D (Research and Development) presence in China.
+The video conferencing specialist, which went public in April 2019, is headquartered in San Jose, Calif., but has said that much of its product development work is done in China. With Zoom in the spotlight, this R&D presence has also been attracting attention.
+“Most of Zoom’s engineering team is based in China,” Jacob Helberg, an adjunct fellow at the Center for Strategic and International Studies, tweeted on Monday. “Conducting sensitive conversations on a platform vulnerable to data collection by the CCP should give pause to those concerned with protecting company or government secrets.”
+CCP is an acronym for the Chinese Communist Party.
+'ZOOM-BOMBING': FBI WARNS SOME TELECONFERENCES, ONLINE CLASSROOMS VULNERABLE TO HACKERS
+Helberg, a former global policy advisor at Google, is also a senior adviser at Stanford University’s Cyber Policy Center.
+
+      In this photo illustration the American video Communications company Zoom logo seen displayed on a smartphone with a computer model of the COVID-19 coronavirus on the background.
+      (Photo Illustration by Budrul Chukrut/SOPA Images/LightRocket via Getty Images)
+A Zoom spokeswoman told Fox News on Wednesday that the company takes privacy and security extremely seriously.
+"Zoom’s system is designed such that only minimal information is collected and any information and/or data transiting the system is routed through a data center in geographic proximity to where the host’s enterprise account is provisioned. We have 17 of our own data centers around the world, only one of which is in China," she said in a statement to Fox News. "We also use public cloud data centers globally, predominantly through AWS [Amazon Web Services]."
+Data originating in the U.S. stays in the U.S., and cross-border meeting data goes to wherever the host’s enterprise account is headquartered, the spokeswoman explained. "For example, if employees from a global company headquartered in the U.S. join a meeting, and participants join from both the U.S. and China, any data related to that meeting will stay in the U.S., even if the meeting ‘host’ is in China," she said.
+"Zoom’s employees based in China do not have clearance or the ability to access content held outside of China," she added. "Additionally, Zoom’s policies regarding compliance with valid legal process preclude cooperation where a government does not have jurisdiction."
+Critics, however, have questioned how Zoom's code works. A Twitter user posted screenshots purportedly of Zoom's installer code on Apple's MacOS, calling it "very shady," adding it is installed without the "user giving his final consent," a similar tactic used by macOS malware.
+The New York Times reports that New York Attorney General Letitia James has sent a letter to Zoom asking what, if any, increased privacy measures have been implemented following its surge in traffic.
+In a blog post dated March 29, Zoom sought to address users’ recent concerns about its privacy policies. “We are updating our privacy policy to be more clear, explicit, and transparent,” Aparna Bawa, Zoom’s chief legal officer, said in the post.
+In its IPO prospectus, Zoom explained that most of the company's product development staff are in China. “Our product development team is largely based in China, where personnel costs are less expensive than in many other jurisdictions,” it explained Zoom. “If we had to relocate our product development team from China to another jurisdiction, we could experience, among other things, higher operating expenses, which would adversely impact our operating margins and harm our business.”
+As of Jan. 31, 2019, Zoom’s R&D centers in China employed over 500 workers, according to the filing. The FT reports that at the time of its IPO the company had to warn investors that its links to China could be viewed as a security and privacy risk.
+Zoom, however, also has an R&D presence in the U.S., which it describes as a strategic advantage in its IPO prospectus. This, it said, allows the company to “invest more in increasing our product capabilities in an efficient manner.”
+ZOOMBOMBING, APPLE PAY TRICKS, SANITIZING AMAZON BOXES, AND MORE: TECH Q&A
+Zoom is led by Eric Yuan, who founded the company in 2011. A former corporate vice-president of engineering at Cisco, Yuan first dreamed up the Zoom concept during the 1990s as a college student in China, when he dreaded the 10-hour train trips to see his then-girlfriend, now his wife.
+
+      Zoom CEO Eric Yuan, center, celebrates the opening bell at Nasdaq as his company holds its IPO, Thursday, April 18, 2019, in New York. The videoconferencing company is headquartered in San Jose, Calif. - file photo.
+      (AP Photo/Mark Lennihan)
+Zoom has been thrust into the spotlight as the world scrambles to contain the coronavirus outbreak and millions of people are now working from home. In addition to using the video conference for work, many are also tapping it to hold virtual playdates for their kids and virtual happy hours with friends and family banned from gathering in public places.
+With the growing use of videoconferencing services, the risk of hacking has also been highlighted.
+Earlier this week, the FBI warned of so-called “Zoom-bombing” or videoconference hacking. “The FBI has received multiple reports of conferences being disrupted by pornographic and/or hate images and threatening language,” it said.
+FRIGHTENING CELLPHONE 'HEAT MAP' SHOWS CORONAVIRUS' POTENTIAL SPREAD AS SPRING BREAK REVELERS WENT HOME
+The FBI said that last month, for example, a Massachusetts-based high school reported that while a teacher was conducting an online class using Zoom, an unidentified person or persons dialed into the classroom. “This individual yelled a profanity and then shouted the teacher’s home address in the middle of instruction,” it said.
+
+      Nasdaq is ready for the Zoom IPO, Thursday, April 18, 2019 in New York - file photo.
+      (AP Photo/Mark Lennihan)
+Another Massachusetts-based school also reported a Zoom meeting being accessed by an unidentified individual, according to the FBI. “In this incident, the individual was visible on the video camera and displayed swastika tattoos.”
+Earlier this week, a spokesperson for Zoom told Fox News that the company has taken the security of its meetings seriously and was “deeply upset to hear about the incidents involving this type of attack.”
+The company added that it encouraged users hosting large, public group meetings to review settings for their safety and report incidents to its support team so it could “take appropriate action.”
+CLICK HERE FOR COMPLETE  CORONAVIRUS COVERAGE
+CLICK HERE TO GET THE FOX NEWS APP
+Zoom shares, which are listed on the Nasdaq, have risen over 124 percent since its IPO last year.
+Fox News’ Bradford Betz and The Associated Press contributed to this article. Follow James Rogers on Twitter @jamesjrogers
+Get a daily look at what’s developing in science and technology throughout the world.
+Subscribed
+You've successfully subscribed to this newsletter!
